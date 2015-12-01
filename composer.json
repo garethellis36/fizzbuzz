@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Gumbercules\\Fizzbuzz\\": "src/",
+        "Gumbercules\\Fizzbuzz\\Test\\": "test/"
+      }
+    }
+}
